@@ -4,6 +4,7 @@
 🌈 Kyonggi univ. Computer engineering 
 💻 Back-End Engineer
 
+<--
 **born-A/born-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
