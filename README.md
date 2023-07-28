@@ -11,6 +11,3 @@
  
 ## Study
  <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
- 
-## Most used Langs
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=born-A&layout=compact)](https://github.com/born-A/github-readme-stats)
