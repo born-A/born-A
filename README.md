@@ -1,7 +1,7 @@
 
 ### 🐰 Bona's Github page 
 ## ✨ About me
-🌈 Kyonggi univ. Computer engineering 
+🌈 Computer engineering 
 💻 Back-End Engineer
 
 ## ⚡ Skills ⚡ 
